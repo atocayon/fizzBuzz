@@ -1,4 +1,4 @@
-#FizzBuzz
+# FizzBuzz
 
 ### This program will print a number from 1 to N (100)
 * For multiple of 3 it prints "Fizz" instead of a number
